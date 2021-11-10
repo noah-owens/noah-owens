@@ -1,7 +1,7 @@
 ### <div align="center">I'm Noah Owens, an informatics student and hobbyist web designer in training.</div>  
   
 
--  I’m currently working on [5eRandomizer](https://github.com/noah-owens/5eRandomizer), a website for creating entirely random level 1 characters for the 5th edition Dungeons & Dragons role-playing game.🎲  
+- 🎲 I’m currently working on [5eRandomizer](https://github.com/noah-owens/5eRandomizer), a website for creating entirely random level 1 characters for the 5th edition Dungeons & Dragons role-playing game.  
   
 
 - 🌱 I’m currently learning PHP and SQL  
