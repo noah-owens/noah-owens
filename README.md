@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning PHP and SQL  
   
 
-- 👾 When I'm not actually busy, I've been busy playing Monster Hunter Rise  
+- 👾 When I'm not actually busy, I've been busy playing Monster Hunter Rise and Animal Crossing New Horizons!
   
 
 <br/>  
