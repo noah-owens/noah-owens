@@ -38,9 +38,7 @@
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=noah-owens&show_icons=true&count_private=true&hide_border=true" />
 </div>
-<div align='center'>
-  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?noah-owens">Language Stats</a>
-</div>
+
 <br />
 
 ----
