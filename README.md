@@ -1,21 +1,15 @@
-### <div align="center">I'm Noah Owens, an informatics student and hobbyist web designer in training.</div>  
-  
+### <div align="center">I'm Noah Owens, an informatics student and hobbyist web designer.</div>  
 
 - 🎲 I’m currently working on [5eRandomizer](https://github.com/noah-owens/5eRandomizer), a website for creating entirely random level 1 characters for the 5th edition Dungeons & Dragons role-playing game.  
-  
 
-- 🌱 I’m currently learning PHP and SQL  
-  
+- 🌱 I’m currently learning JavaScript and PHP
 
-- 👾 When I'm not actually busy, I've been busy playing Monster Hunter Rise and Animal Crossing New Horizons!
+- 👾 When I'm not actually busy, I've been busy playing Monster Hunter Rise!
   
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lvl7cleric&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>  
-
 <br/>  
-
 
 ## My Skill Set  
 <div align="center">  
@@ -33,13 +27,11 @@
 
 <br/>  
 
-
 ## Github Stats  
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=noah-owens&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noah-owens&show_icons=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-owens&layout=compact&langs_count=5)" />
 </div>
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-owens&layout=compact&langs_count=5)" />
+</div>
