@@ -5,7 +5,12 @@
 - 🌱 I’m currently learning JavaScript, Java and PHP
 
 - 👾 When I'm not actually busy, I've been busy playing Monster Hunter Rise!
-  
+
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lvl7cleric&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lvl7cleric&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>
+
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->  
