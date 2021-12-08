@@ -12,11 +12,11 @@
 
 <br/>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->  
-
-<br/>
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/noah-owens/noah-owens/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->  
