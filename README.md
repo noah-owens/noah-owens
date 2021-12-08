@@ -1,8 +1,8 @@
-### <div align="center">I'm Noah Owens, an informatics student and hobbyist web designer.</div>  
+### <div align="center">I'm Noah Owens, a Business Informatics major</div>  
 
 - 🎲 I’m currently working on [5eRandomizer](https://github.com/noah-owens/5eRandomizer), a website for creating entirely random level 1 characters for the 5th edition Dungeons & Dragons role-playing game.  
 
-- 🌱 I’m currently learning JavaScript, Java and PHP
+- 🌱 I’m learning JavaScript, Java and maybe someday I'll get around to PHP.
 
 - 👾 When I'm not actually busy, I've been busy playing Monster Hunter Rise!
 
