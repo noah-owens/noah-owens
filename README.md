@@ -1,4 +1,4 @@
-### <div align="center">I'm Noah Owens, a Business Informatics major</div>  
+### <div align="center">I'm Noah Owens, a Business Informatics Major</div>  
 
 - 🎲 I’m currently working on [5eRandomizer](https://github.com/noah-owens/5eRandomizer), a website for creating entirely random level 1 characters for the 5th edition Dungeons & Dragons role-playing game.  
 
