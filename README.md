@@ -2,7 +2,7 @@
 
 - 🎲 I’m currently working on [5eRandomizer](https://github.com/noah-owens/5eRandomizer), a website for creating entirely random level 1 characters for the 5th edition Dungeons & Dragons role-playing game.  
 
-- 🌱 I’m learning JavaScript, Java and maybe someday I'll get around to PHP.
+- 🌱 I’m learning JavaScript, Java and maybe I'll get around to PHP soon :)
 
 - 👾 When I'm not actually busy, I've been busy playing Monster Hunter Rise!
 
@@ -15,8 +15,3 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/noah-owens/noah-owens/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
-<br/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->  
