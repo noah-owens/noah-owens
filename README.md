@@ -12,6 +12,6 @@
 
 <br/>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/noah-owens/noah-owens/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/noah-owens/noah-owens/output/github-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_

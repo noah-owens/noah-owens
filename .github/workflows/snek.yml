@@ -13,6 +13,7 @@ on:
     branches:
     - main
 
+# big credit to example workflow from https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L24-L29
 jobs:
   generate:
     runs-on: ubuntu-latest
