@@ -1,10 +1,10 @@
 ### <div align="center">I'm Noah Owens, a Business Informatics Major</div>  
 
-- 🎲 I’m currently working on [5eRandomizer](https://github.com/noah-owens/5eRandomizer), a website for creating entirely random level 1 characters for the 5th edition Dungeons & Dragons role-playing game.  
+- 🎲 I’m currently working on [Character Forge](https://github.com/noah-owens/Character-Forge), a java application for creating characters for 5th edition Dungeons & Dragons.
 
 - 🌱 I’m learning JavaScript, Java and maybe I'll get around to PHP soon :)
 
-- 👾 When I'm not actually busy, I've been busy playing Monster Hunter Rise!
+- 👾 When I'm not actually busy, I've been busy playing Fire Emblem Warriors!
 
 <br/>  
 
