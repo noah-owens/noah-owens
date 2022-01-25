@@ -4,13 +4,7 @@
 
 - 🌱 I’m learning JavaScript, Java and maybe I'll get around to PHP soon :)
 
-- 👾 When I'm not actually busy, I've been busy playing Fire Emblem Warriors!
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lvl7cleric&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>
-
-<br/>
+- 👾 When I'm not actually busy, I've been busy playing Tetris 99!
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/noah-owens/noah-owens/output/github-snake.svg)
 
