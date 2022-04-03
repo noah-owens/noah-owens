@@ -4,7 +4,7 @@
 
 - 👾 When I'm not actually busy, I've been busy playing MTG with my wife!
 
-### Languages and Tools:
+<br />
 
 <p>
 <img width="55%" align="left" alt="noah-owens github stats" src="https://github-readme-stats.vercel.app/api?username=noah-owens&show_icons=true&theme=dark" />
@@ -26,8 +26,6 @@
 <img width="7%" src="images/phpmyadmin.svg">
 <img width="7%" src="images/mariadb.svg">
 <img width="7%" src="images/adobephotoshop.svg">
-
-<br />
 </p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/noah-owens/noah-owens/output/github-snake.svg)
