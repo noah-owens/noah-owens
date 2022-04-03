@@ -2,9 +2,28 @@
 
 - 🎲 I’m currently working on [Character Forge](https://github.com/noah-owens/Character-Forge), a java application for creating characters for 5th edition Dungeons & Dragons.
 
-- 🌱 I’m learning Jquery and SQL right now, hoping to become a competent full-stack developer.
-
 - 👾 When I'm not actually busy, I've been busy playing MTG with my wife!
+
+### Languages and Tools:
+
+<p>
+<img width="55%" align="left" alt="noah-owens github stats" src="https://github-readme-stats.vercel.app/api?username=noah-owens&show_icons=true&theme=dark" />
+
+<!-- Icons from https://simpleicons.org/ -->
+
+<img width="7%" src="images/java.svg">
+<img width="7%" src="images/gradle.svg">
+<img width="7%" src="images/git.svg">
+<br />
+<img width="7%" src="images/html5.svg">
+<img width="7%" src="images/css3.svg">
+<img width="7%" src="images/javascript.svg">
+<br />
+<img width="7%" src="images/phpmyadmin.svg">
+<img width="7%" src="images/mariadb.svg">
+<img width="7%" src="images/adobephotoshop.svg">
+<br />
+</p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/noah-owens/noah-owens/output/github-snake.svg)
 
