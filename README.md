@@ -13,15 +13,20 @@
 
 <img width="7%" src="images/java.svg">
 <img width="7%" src="images/gradle.svg">
+<img width="7%" src="images/intellijidea.svg">
 <img width="7%" src="images/git.svg">
+
 <br />
 <img width="7%" src="images/html5.svg">
 <img width="7%" src="images/css3.svg">
 <img width="7%" src="images/javascript.svg">
+<img width="7%" src="images/github.svg">
 <br />
+<img width="7%" src="images/r.svg">
 <img width="7%" src="images/phpmyadmin.svg">
 <img width="7%" src="images/mariadb.svg">
 <img width="7%" src="images/adobephotoshop.svg">
+
 <br />
 </p>
 
