@@ -1,4 +1,4 @@
-### <div align="center">I'm Noah Owens, a Business Informatics Major</div>  
+### <div align="center">I'm Noah Owens, an Informatics Major</div>  
 
 - 🎲 I’m currently working on [Character Forge](https://github.com/noah-owens/Character-Forge), a java application for creating characters for 5th edition Dungeons & Dragons.
 
