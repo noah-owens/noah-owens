@@ -1,6 +1,6 @@
 ### <div align="center">I'm Noah Owens, an Informatics Major</div>  
 
-- 🎲 I’m currently working on [Character Forge](https://github.com/noah-owens/Character-Forge), a java application for creating characters for 5th edition Dungeons & Dragons.
+- 🎲 I’m currently working on [Character Forge](https://github.com/noah-owens/Character-Forge), a java application for creating random characters in the 5th edition Dungeons & Dragons system.
 
 - 👾 When I'm not actually busy, I've been busy playing MTG with my wife!
 
