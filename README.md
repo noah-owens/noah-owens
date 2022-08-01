@@ -1,10 +1,8 @@
-# Noah Owens
+## Noah Owens | B.B.A. Business Informatics | Expected Graduation Spring '23
 
-## B.B.A. Business Informatics | Expected Graduation Spring '23
+- I’ve been working on [Character Forge](https://github.com/noah-owens/Character-Forge), a java application for creating random characters in the 5th edition Dungeons & Dragons system.
 
-### - I’ve been working on [Character Forge](https://github.com/noah-owens/Character-Forge), a java application for creating random characters in the 5th edition Dungeons & Dragons system.
-
-### - I have recently certified as a Power BI Data Analyst Associate, and am looking forward to gaining more experience modeling and visualizing data.
+- I have recently certified as a Power BI Data Analyst Associate, and am looking forward to gaining more experience modeling and visualizing data.
 
 <br />
 
