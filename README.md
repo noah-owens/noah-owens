@@ -1,27 +1,33 @@
-## Noah Owens | B.B.A. Business Informatics
+## Risk Analyst • Data-Driven Problem Solver
 
-<br />
+I'm a finance and analytics professional with 3+ years of Risk Management experience.
 
-<p>
-<img width=42%" align="left" alt="Microsoft Power BI Data Analyst Associate Certification" src="images/microsoft-certified-associate-badge.svg" />
+This is my personal GitHub profile. The projects, opinions, and content shared here reflect my own interests and do not represent any organization I work for
 
-<!-- Icons from https://simpleicons.org/ -->
+---
 
-<img width="13%" alt="Java" src="images/java.svg">
-<img width="13%" alt="Gradle" src="images/gradle.svg">
-<img width="13%" alt="Intellij" src="images/intellijidea.svg">
-<img width="13%" alt="Git" src="images/git.svg">
+### 💼 Professional Experience
 
-<br />
+- Risk Management Professional @ ICCU (2022-Present)
+- Laboratory Worker @ Portneuf Medical Center (2019-2022)
 
-<img width="13%" alt="HTML5" src="images/html5.svg">
-<img width="13%" alt="CSS3" src="images/css3.svg">
-<img width="13%" alt="JavaScript" src="images/javascript.svg">
-<img width="13%" alt="GitHub" src="images/github.svg">
-<br />
+---
 
-<img width="13%" alt="R" src="images/r.svg">
-<img width="13%" alt="PHPMyAdmin" src="images/phpmyadmin.svg">
-<img width="13%" alt="MariaDB" src="images/mariadb.svg">
-<img width="13%" alt="Photoshop" src="images/adobephotoshop.svg">
-</p>
+### 🎓 Education & Certifications
+
+**Bachelor of Business Administration (BBA), Informatics**  
+*Idaho State University College of Business*  
+- Focus: Health & Business Informatics, Quantitative Analytics, Web Development
+
+---
+
+### 🧰 Skills & Tools
+
+- Python • SQL • R • Java • HTML5 • LaTeX
+- Bayesian Statistics • Financial Modeling
+
+---
+
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/noah-owens-66065b249/) 
