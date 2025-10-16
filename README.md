@@ -6,14 +6,14 @@ This is my personal GitHub profile. The projects, opinions, and content shared h
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 - Risk Management Professional @ ICCU (2022-Present)
 - Laboratory Worker @ Portneuf Medical Center (2019-2022)
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 **Bachelor of Business Administration (BBA), Informatics**  
 *Idaho State University College of Business*  
@@ -21,13 +21,13 @@ This is my personal GitHub profile. The projects, opinions, and content shared h
 
 ---
 
-### 🧰 Skills & Tools
+### Skills & Tools
 
 - Python • SQL • R • Java • HTML5 • LaTeX
 - Bayesian Statistics • Financial Modeling
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/noah-owens-66065b249/) 
